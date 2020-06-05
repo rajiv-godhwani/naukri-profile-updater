@@ -102,7 +102,8 @@ async function updateProfile(username,password,context){
 }
 
 
+// Uncomment to run locally
 
-exports.handler({sheetsUrl:'https://sheet.best/api/sheets/90336906-1a0a-4665-a277-694662b8785f'},null,function(e){
-  console.log(e)
-})
+// exports.handler({sheetsUrl:'https://sheet.best/api/sheets/10336906-1a0a-4665-a277-694662b8785f'},null,function(e){
+//   console.log(e)
+// })
